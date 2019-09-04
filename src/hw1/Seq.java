@@ -28,5 +28,5 @@ public class Seq
 	
 	
 }	
-//comment
+//By chance, we would expect to see AAA 3-mer 15.625 times ((.25^3)*1000)). The Java number is relatively close to this number.
 
